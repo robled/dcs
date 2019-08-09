@@ -50,6 +50,11 @@ skins:
     dl_url: 'https://www.digitalcombatsimulator.com/upload/iblock/046/Ace Combat - Yuktobanian Navy 92nd Seperate Shipborne Fighter Aviation Regiment Elektron.zip'
     type: f-14b
     sub_dir: 'Ace Combat - Yuktobanian Navy 92nd Seperate Shipborne Fighter Aviation Regiment Elektron'
+  - name: 'F-14B - NSAWC Blue splinter #20'
+    link: 'https://www.digitalcombatsimulator.com/en/files/3305925/'
+    dl_url: 'https://www.digitalcombatsimulator.com/upload/iblock/d76/NSAWC 20.rar'
+    type: f-14b
+    sub_dir: 'NSAWC 20'
   - name: 'GLG-20 Decoys (DontCamp Development Skin)'
     link: 'https://dst.dev/dcs/liveries/glg-20-decoys.7z'
     dl_url: 'https://dst.dev/dcs/liveries/glg-20-decoys.7z'
